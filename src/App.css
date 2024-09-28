@@ -1,0 +1,20 @@
+.starships-container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+}
+
+.starship-card {
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  padding: 1rem;
+  width: 200px;
+  text-align: center;
+  background-color: #d2cf140a;
+}
+
+
+h1{
+  text-align: center;
+  background-color: rgb(19, 197, 19);
+}
